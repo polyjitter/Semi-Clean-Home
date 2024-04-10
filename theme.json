@@ -1,0 +1,10 @@
+{
+    "name": "Simple Clean Home",
+    "author": "polyjitter",
+    "manifest_version": 1,
+    "target": "Other",
+    "description": "This is a very simple hack that keeps headers but centers games. You might like it, you might not.",
+    "inject": {
+        "shared.css": ["bigpicture"]
+    }
+}
