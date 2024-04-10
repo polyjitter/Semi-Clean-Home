@@ -1,2 +1,2 @@
 # Steam-Deck-Theme-Template
-Template repository to get started with theming quicker
+Very basic two property CSS hack to get my Steam Deck how i like it.
